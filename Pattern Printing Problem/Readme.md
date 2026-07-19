@@ -34,6 +34,7 @@ for (int row = 1; row <= n; row++) {
 }
 ```
 
+
 ### 2. Inner loop controls what gets printed in that row
 
 The inner loop decides:
