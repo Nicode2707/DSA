@@ -2,7 +2,7 @@
 
 Pattern problems are one of the best ways to build your programming logic as a beginner.
 
-They help you understand:-
+They help you understand:--
 
 - How loops work
 - How rows and columns behave
